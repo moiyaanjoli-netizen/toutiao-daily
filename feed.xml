@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>每日热点深度解读</title>
-    <link>https://moiyaanjoli-netizen.github.io/toutiao-daily/</link>
-    <description>每日热点深度解读盘点（自动生成）</description>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
-  </channel>
+<channel>
+<title>moiyaanjoli-netizen/toutiao-daily</title>
+<link>https://moiyaanjoli-netizen.github.io/toutiao-daily</link>
+<description>moiyaanjoli-netizen/toutiao-daily - Auto updated article feed</description>
+<lastBuildDate>Tue, 03 Mar 2026 16:20:30 GMT</lastBuildDate>
+<item><title>未来职场：AI时代的机遇与挑战</title><link>https://moiyaanjoli-netizen.github.io/toutiao-daily/posts/2026-03-04-future-job-market-ai.html</link><guid isPermaLink="true">https://moiyaanjoli-netizen.github.io/toutiao-daily/posts/2026-03-04-future-job-market-ai.html</guid><pubDate>Tue, 03 Mar 2026 16:20:30 GMT</pubDate><description>人工智能正在迅速改变我们的工作方式，带来了新的机遇与挑战。本文将探讨这些变化对职业发展的影响。</description></item>
+</channel>
 </rss>
